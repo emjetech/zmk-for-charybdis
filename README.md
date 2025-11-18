@@ -20,6 +20,7 @@ Charybdis 4x6 Versi Bluetooth Dual-Mode — Shortcut Default & Penjelasan Pengik
 1. Lokasi Tombol Flashing Firmware
 Setelah memasang kabel data, tekan dua kali tombol flashing dengan cepat (kurang dari 0,5 detik). Komputer akan muncul sebagai drive USB dan firmware dapat diseret ke dalam drive tersebut untuk flashing. Hanya pengguna berpengalaman yang disarankan melakukan ini.
 
+<img width="1754" height="1103" alt="Image" src="https://github.com/user-attachments/assets/07a923d0-8b90-47b0-af16-2b3c3918968e" />
  
 Related keyboard shortcuts: Three layers are enabled by default; you can add more yourself. Source code is open source: Open source address:
 
@@ -47,6 +48,7 @@ Misalnya Anda memiliki 5 perangkat Bluetooth:
 3.	Laptop
 4.	PC Desktop
 5.	Laptop milik teman
+
 Cara menggunakannya:
 •	Tekan MO(2) + 1 → pilih kanal 1 → lakukan pairing → jika berhasil, kanal 1 telah terhubung dengan perangkat 1
 •	Ulangi untuk kanal 2–5 menggunakan MO(2) + 2 … MO(2) + 5
@@ -55,9 +57,6 @@ Jika ingin mengganti perangkat pada suatu kanal (misal kanal 1):
 1.	Tekan MO(2) + 1 untuk masuk ke kanal 1
 2.	Tekan MO(2) + C untuk menghapus ikatan kanal tersebut
 3.	Pairing ulang dengan perangkat baru
-
-
-
 
 MO(2) + A menghapus semua ikatan Bluetooth sekaligus — jarang diperlukan.
 Jika suatu hari keyboard tidak terhubung ke perangkat:
@@ -72,22 +71,6 @@ dll.
 Biasanya ini terjadi karena firmware tidak ter-flash dengan benar.
 Pengguna pemula disarankan tidak melakukan modifikasi berlebihan. Tidak ada garansi gratis jika firmware rusak akibat flashing.
 ________________________________________
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -110,14 +93,9 @@ Urutan flashing yang benar:
 Jika masih tidak berfungsi, ulangi proses beberapa kali.
 
 
-
-
-
-
-
 ________________________________________
 4. Catatan Sangat Penting Saat Memasang/Mengganti Switch
- 
+
 Keyboard ini mendukung hot-swap, tetapi karena casing memiliki permukaan melengkung, posisi setiap lubang switch tidak berada pada satu bidang datar.
 Akibatnya:
 •	switch sangat mudah masuk miring,
@@ -130,7 +108,8 @@ Cara pemasangan switch yang aman:
 o	satu jari menekan switch dari depan,
 o	satu jari lagi menahan socket hot-swap di belakang PCB,
 o	tekan kedua sisi secara bersamaan. 
- 
+ <img width="926" height="1235" alt="Image" src="https://github.com/user-attachments/assets/a47c42f3-90d3-4279-8eed-0261e3bf3f2c" />
+ <img width="926" height="1235" alt="Image" src="https://github.com/user-attachments/assets/7fee569d-68c1-400d-8ab6-c7623f03b4e2" />
 
 Keuntungan metode ini:
 •	sekuat apa pun tekanan Anda, socket tidak akan rusak,
